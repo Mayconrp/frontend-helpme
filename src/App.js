@@ -6,7 +6,7 @@ import Form from './components/Form' ;
 import './styles.css';
 
 /* const handleSubmit = values => console.log(JSON.stringify(values)) */
-const handleSubmit = values => axios.post('https://whispering-sierra-56155.herokuapp.com/api/cadastrar-cliente', values)
+const handleSubmit = values => axios.post('https://powerful-ocean-93314.herokuapp.com/api/cadastrar-cliente', values)
         .then(response => {
           console.log(response)
           alert("Usuario cadastrado com sucesso! ")
