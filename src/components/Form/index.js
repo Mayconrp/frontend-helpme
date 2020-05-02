@@ -24,12 +24,11 @@ import './styles.css'
                             </div>
                                 <div className="col-50" >
                                     <h1 className="tituloh1">Deixe-nos ajudar você ! ;) </h1>
-                                    <h3 className="tituloh3"><p className="textoh3">Olá, somos o helpme.com, conectamos os seus problemas as soluções.</p>
-                                    &nbsp;&nbsp;&nbsp;&nbsp;<p className="textoh3">Você está aqui por que precisa de algum tipo de ajuda ou serviço certo?</p>
-                                    {/* &nbsp;&nbsp;&nbsp;&nbsp;<p className="textoh3">Deixe com a gente o seu contato, para que possamos nos conectar.</p> */}</h3>
+                                    <h3 className="tituloh3"><p className="textoh3">Olá, somos o helpeme, uma startup que conecta seus problemas as melhores soluções.</p>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;<p className="textoh3">Você está aqui por que precisa de algum tipo de ajuda ou serviço certo?</p></h3>
 
                                     <p className="textoExplicativo">Como funciona? Simples, você já esteve ou esta naquele dia em que se depara com algum tipo de problema seja ele:
-                                     instalar uma impressora, construção civel não terminada ou que deve ser feita, precisando de um carreto,
+                                     instalar uma impressora, construção civel não terminada ou que deve ser feita, precisando de um carreto, montar um móvel,
                                       ou até mesmo a entrega de alguma objeto que no momento voce não pode fazer,
                                       ou pode mas não quer gastar tempo procurando? E pagaria ou melhor negociaria para alguem fazer?.</p>
                                     <p>Então é exatamente isso que fazemos, entramos em contato, ligamos seu problema ao profissional que pode resolve-lo (com qualidade), e o melhor ainda,
