@@ -29,7 +29,7 @@ import './styles.css'
 
                                     <p className="textoExplicativo">Como funciona? Simples, você já esteve ou esta naquele dia em que se depara com algum tipo de problema seja ele:
                                      instalar uma impressora, construção civel não terminada ou que deve ser feita, precisando de um carreto, montar um móvel,
-                                      ou até mesmo a entrega de alguma objeto que no momento voce não pode fazer,
+                                      ou até mesmo a entrega de algum objeto que no momento voce não pode fazer,
                                       ou pode mas não quer gastar tempo procurando? E pagaria ou melhor negociaria para alguem fazer?.</p>
                                     <p>Então é exatamente isso que fazemos, entramos em contato, ligamos seu problema ao profissional que pode resolve-lo (com qualidade), e o melhor ainda,
                                          não existe um valor fixo, isso mesmo o valor você que negocia durante a conversa.</p><br/>
