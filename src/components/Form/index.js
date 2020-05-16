@@ -25,14 +25,18 @@ import './styles.css'
                                 <div className="col-50" >
                                     <h1 className="tituloh1">Deixe-nos ajudar você ! ;) </h1>
                                     <h3 className="tituloh3"><p className="textoh3">Olá, somos o helpeme, uma startup que conecta seus problemas as melhores soluções.</p>
-                                    &nbsp;&nbsp;&nbsp;&nbsp;<p className="textoh3">Você está aqui por que precisa de algum tipo de ajuda ou serviço certo?</p></h3>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;<p className="textoh3">Estamos aqui com o único propósito de facilicar a sua vida.</p></h3>
 
-                                    <p className="textoExplicativo">Como funciona? Simples, você já esteve ou esta naquele dia em que se depara com algum tipo de problema seja ele:
-                                     instalar uma impressora, declaração anual de imposto de renda (IRPF), construção civel não terminada ou que deve ser feita, precisando de um carreto, montagem de um móvel,
+                                    <p className="textoExplicativo">Como funciona? Simples, você já esteve ou esta naquele dia em que se depara com algum tipo de problema seja ele:<br><br>
+                                     - declaração anual de imposto de renda (IRPF).<br>  
+                                     - a instalação uma impressora.<br>
+                                     - construção civel não terminada ou que deve ser feita.<br>
+                                     - precisando de um carreto.<br>
+                                     - montagem de um móvel.<br><br>                                     
                                       ou até mesmo a entrega de algum objeto que no momento voce não pode fazer,
                                       ou pode mas não quer gastar tempo procurando? E pagaria ou melhor negociaria para alguem fazer?.</p>
                                     <p>Então é exatamente isso que fazemos, entramos em contato, ligamos seu problema ao profissional que pode resolve-lo (com qualidade), e o melhor ainda,
-                                         não existe um valor fixo, isso mesmo o valor você que negocia durante a conversa.</p><br/>
+                                         não existe um valor fixo, isso mesmo o valor você que negocia durante a conversa para achar o melhor preço. Isso tudo claro da maneira mais segura.</p><br/>
                                     <p>Para testar é simples, basta preencher o formulário abaixo. Mas fique com o celular por perto ok? Pois iremos entrar em contato.</p><br/>
                                     
                                     <label>Nome:</label>
