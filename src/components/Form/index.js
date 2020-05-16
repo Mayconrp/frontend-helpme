@@ -28,7 +28,7 @@ import './styles.css'
                                     &nbsp;&nbsp;&nbsp;&nbsp;<p className="textoh3">Você está aqui por que precisa de algum tipo de ajuda ou serviço certo?</p></h3>
 
                                     <p className="textoExplicativo">Como funciona? Simples, você já esteve ou esta naquele dia em que se depara com algum tipo de problema seja ele:
-                                     instalar uma impressora, construção civel não terminada ou que deve ser feita, precisando de um carreto, montar um móvel,
+                                     instalar uma impressora, declaração anual de imposto de renda (IRPF), construção civel não terminada ou que deve ser feita, precisando de um carreto, montagem de um móvel,
                                       ou até mesmo a entrega de algum objeto que no momento voce não pode fazer,
                                       ou pode mas não quer gastar tempo procurando? E pagaria ou melhor negociaria para alguem fazer?.</p>
                                     <p>Então é exatamente isso que fazemos, entramos em contato, ligamos seu problema ao profissional que pode resolve-lo (com qualidade), e o melhor ainda,
